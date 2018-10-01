@@ -7,11 +7,7 @@
 //
 
 import UIKit
-//TESTING GIT FROM XCODE
-//TESTING
-//TESTING TESTING
-//TESTING TESTING TESTING
-//TESTING TESTING TESTING TESTING
+// FINAL UPDATE :D :D 
 class ViewController: UIViewController {
     
     
